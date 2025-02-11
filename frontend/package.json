@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "Print notifications frontend",
-  "scripts": {
+  "scripts": {"homepage": "https://zer0000x.github.io/print-notifications-app",
     "start": "react-scripts start"
   },
   "dependencies": {
