@@ -11,4 +11,9 @@
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0"
   }
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
 }
